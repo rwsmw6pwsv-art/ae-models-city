@@ -1,0 +1,972 @@
+{
+ "stats": {
+  "village_small": {
+   "k_native_per_metre": 0.04097229063398866,
+   "lod0": {
+    "triangles": 9134,
+    "vertices": 18362,
+    "bytes_raw": 1075976,
+    "bytes": 229068,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_small_lod0.glb",
+    "theme": "snow",
+    "kind": "village_small",
+    "lod": 0,
+    "houses": 22,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.27276432261948813,
+     0.95
+    ],
+    "fit_scale": [
+     1.0011199900978491,
+     1.0036661686191086,
+     1.0003867255401433
+    ],
+    "dims": [
+     1.9021279811859133,
+     0.27376432261948813,
+     1.9007347785262723
+    ],
+    "target_min": [
+     -0.9510774910449982,
+     -9.661128545918052e-06,
+     -0.9501259010448285
+    ],
+    "target_max": [
+     0.9510504901409149,
+     0.2737546614909422,
+     0.9506088774814435
+    ],
+    "native_err_pct": 0.086,
+    "native_errs": [
+     0.007,
+     0.086,
+     0.014
+    ],
+    "k": 0.04097229063398866
+   },
+   "lod1": {
+    "triangles": 4712,
+    "vertices": 9506,
+    "bytes_raw": 462780,
+    "bytes": 108492,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_small_lod1.glb",
+    "theme": "snow",
+    "kind": "village_small",
+    "lod": 1,
+    "houses": 22,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.2670282019307297,
+     0.95
+    ],
+    "fit_scale": [
+     1.0011199900978491,
+     1.0252262519091744,
+     1.0003867255401433
+    ],
+    "dims": [
+     1.9021279811859133,
+     0.27376432261948813,
+     1.9007347785262723
+    ],
+    "target_min": [
+     -0.9510774910449982,
+     -9.661128545918052e-06,
+     -0.9501259010448285
+    ],
+    "target_max": [
+     0.9510504901409149,
+     0.2737546614909422,
+     0.9506088774814435
+    ],
+    "native_err_pct": 0.086,
+    "native_errs": [
+     0.007,
+     0.086,
+     0.014
+    ],
+    "k": 0.04097229063398866
+   },
+   "lod2": {
+    "triangles": 854,
+    "vertices": 1778,
+    "bytes_raw": 192312,
+    "bytes": 40236,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_small_lod2.glb",
+    "theme": "snow",
+    "kind": "village_small",
+    "lod": 2,
+    "houses": 22,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.23834759848693765,
+     0.95
+    ],
+    "fit_scale": [
+     1.0011199900978491,
+     1.1485927458777876,
+     1.0003867255401433
+    ],
+    "dims": [
+     1.9021279811859133,
+     0.27376432261948813,
+     1.9007347785262723
+    ],
+    "target_min": [
+     -0.9510774910449982,
+     -9.661128545918052e-06,
+     -0.9501259010448285
+    ],
+    "target_max": [
+     0.9510504901409149,
+     0.2737546614909422,
+     0.9506088774814435
+    ],
+    "native_err_pct": 0.086,
+    "native_errs": [
+     0.007,
+     0.086,
+     0.014
+    ],
+    "k": 0.04097229063398866
+   }
+  },
+  "village_large": {
+   "k_native_per_metre": 0.024847700318071143,
+   "lod0": {
+    "triangles": 8000,
+    "vertices": 16126,
+    "bytes_raw": 997632,
+    "bytes": 210404,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_large_lod0.glb",
+    "theme": "snow",
+    "kind": "village_large",
+    "lod": 0,
+    "houses": 38,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.16705574197204107,
+     0.95
+    ],
+    "fit_scale": [
+     1.0007599780434058,
+     1.0268094828208871,
+     1.0007599780434058
+    ],
+    "dims": [
+     1.901443958282471,
+     0.17153442001657104,
+     1.901443958282471
+    ],
+    "target_min": [
+     -0.9511139690876007,
+     3.828805527877899e-05,
+     -0.9503324627876282
+    ],
+    "target_max": [
+     0.95032998919487,
+     0.17157270807184982,
+     0.9511114954948425
+    ],
+    "native_err_pct": 0.271,
+    "native_errs": [
+     0.023,
+     0.271,
+     0.023
+    ],
+    "k": 0.024847700318071143
+   },
+   "lod1": {
+    "triangles": 1780,
+    "vertices": 3674,
+    "bytes_raw": 258544,
+    "bytes": 56616,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_large_lod1.glb",
+    "theme": "snow",
+    "kind": "village_large",
+    "lod": 1,
+    "houses": 38,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.1496623517493913,
+     0.95
+    ],
+    "fit_scale": [
+     1.0007599780434058,
+     1.1461427540829,
+     1.0007599780434058
+    ],
+    "dims": [
+     1.901443958282471,
+     0.17153442001657104,
+     1.901443958282471
+    ],
+    "target_min": [
+     -0.9511139690876007,
+     3.828805527877899e-05,
+     -0.9503324627876282
+    ],
+    "target_max": [
+     0.95032998919487,
+     0.17157270807184982,
+     0.9511114954948425
+    ],
+    "native_err_pct": 0.271,
+    "native_errs": [
+     0.023,
+     0.271,
+     0.023
+    ],
+    "k": 0.024847700318071143
+   },
+   "lod2": {
+    "triangles": 1320,
+    "vertices": 2742,
+    "bytes_raw": 225956,
+    "bytes": 49132,
+    "file": "/workspace/assets/issue-326/built/snow/timber/ae_snow_village_large_lod2.glb",
+    "theme": "snow",
+    "kind": "village_large",
+    "lod": 2,
+    "houses": 38,
+    "pre_fit_min": [
+     -0.95,
+     0.0,
+     -0.95
+    ],
+    "pre_fit_max": [
+     0.95,
+     0.1496623517493913,
+     0.95
+    ],
+    "fit_scale": [
+     1.0007599780434058,
+     1.1461427540829,
+     1.0007599780434058
+    ],
+    "dims": [
+     1.901443958282471,
+     0.17153442001657104,
+     1.901443958282471
+    ],
+    "target_min": [
+     -0.9511139690876007,
+     3.828805527877899e-05,
+     -0.9503324627876282
+    ],
+    "target_max": [
+     0.95032998919487,
+     0.17157270807184982,
+     0.9511114954948425
+    ],
+    "native_err_pct": 0.271,
+    "native_errs": [
+     0.023,
+     0.271,
+     0.023
+    ],
+    "k": 0.024847700318071143
+   }
+  }
+ },
+ "layouts": {
+  "village_small": [
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 27.97,
+    "rc": 0.4836,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 63.97,
+    "rc": 0.5386,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 120.02,
+    "rc": 0.5019,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 156.02,
+    "rc": 0.5496,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 203.71,
+    "rc": 0.4217,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 230.04,
+    "rc": 0.4836,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 251.32,
+    "rc": 0.5386,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 300.02,
+    "rc": 0.5019,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 0,
+    "theta_deg": 336.02,
+    "rc": 0.5496,
+    "yaw_toward_center": true,
+    "scale": 0.03769450738326957,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 21.03,
+    "rc": 0.6754,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 50.92,
+    "rc": 0.6554,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 74.88,
+    "rc": 0.7142,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 107.43,
+    "rc": 0.6754,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 128.9,
+    "rc": 0.7268,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 148.95,
+    "rc": 0.5891,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 168.48,
+    "rc": 0.7142,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 196.57,
+    "rc": 0.6554,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 226.21,
+    "rc": 0.6059,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 254.64,
+    "rc": 0.7268,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 291.03,
+    "rc": 0.6754,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 320.92,
+    "rc": 0.6554,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_small",
+    "ring": 1,
+    "theta_deg": 344.88,
+    "rc": 0.7142,
+    "yaw_toward_center": true,
+    "scale": 0.04097229063398866,
+    "family": "timber"
+   }
+  ],
+  "village_large": [
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 19.26,
+    "rc": 0.3894,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 43.78,
+    "rc": 0.4294,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 69.52,
+    "rc": 0.4415,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 106.63,
+    "rc": 0.4726,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 133.86,
+    "rc": 0.3997,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 162.23,
+    "rc": 0.4294,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 199.26,
+    "rc": 0.3894,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 223.78,
+    "rc": 0.4294,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 249.52,
+    "rc": 0.4415,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 286.63,
+    "rc": 0.4726,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 313.86,
+    "rc": 0.3997,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 0,
+    "theta_deg": 342.23,
+    "rc": 0.4294,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 11.72,
+    "rc": 0.74,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 28.01,
+    "rc": 0.6887,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 40.92,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 52.21,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 67.14,
+    "rc": 0.6998,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 81.35,
+    "rc": 0.7706,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 97.98,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 108.56,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 119.43,
+    "rc": 0.7706,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 132.68,
+    "rc": 0.74,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 148.25,
+    "rc": 0.6887,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 160.43,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 171.01,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 192.36,
+    "rc": 0.6998,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 207.35,
+    "rc": 0.7706,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 218.71,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 230.78,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 243.15,
+    "rc": 0.7706,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_l",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 257.89,
+    "rc": 0.74,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_hall",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 280.57,
+    "rc": 0.6887,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 292.68,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 303.19,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "large_barn",
+    "H": "H3",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 317.32,
+    "rc": 0.6998,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_booth",
+    "H": "H2",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 330.75,
+    "rc": 0.7706,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "small_hut",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 340.54,
+    "rc": 0.7633,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   },
+   {
+    "module": "medium_block",
+    "H": "H1",
+    "village": "village_large",
+    "ring": 1,
+    "theta_deg": 351.04,
+    "rc": 0.7277,
+    "yaw_toward_center": true,
+    "scale": 0.024847700318071143,
+    "family": "timber"
+   }
+  ]
+ },
+ "H_map": {
+  "small_hut": "H1",
+  "small_booth": "H2",
+  "medium_block": "H1",
+  "medium_l": "H2",
+  "large_hall": "H3",
+  "large_barn": "H3"
+ }
+}

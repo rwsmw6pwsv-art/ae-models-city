@@ -1,0 +1,519 @@
+{
+ "stats": {
+  "lod0": {
+   "triangles": 4540,
+   "vertices": 9150,
+   "bytes_raw": 632320,
+   "bytes": 130952,
+   "file": "/workspace/assets/issue-326/built/forest/stone/ae_forest_neighbourhood_stone_lod0.glb",
+   "theme": "forest",
+   "kind": "stone_neighbourhood",
+   "lod": 0,
+   "counts": {
+    "large_terrace": 1,
+    "small_booth": 10,
+    "small_hut": 19,
+    "medium_block": 4
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.9026509520800741,
+    0.0,
+    -0.9006871594489189
+   ],
+   "pre_fit_max": [
+    0.9067938735903308,
+    0.15996526320045307,
+    0.8923541062620012
+   ],
+   "fit_scale": [
+    1.0441140631406232,
+    1.1764705882352942,
+    1.0137922599906584
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  },
+  "lod1": {
+   "triangles": 876,
+   "vertices": 1822,
+   "bytes_raw": 165896,
+   "bytes": 36100,
+   "file": "/workspace/assets/issue-326/built/forest/stone/ae_forest_neighbourhood_stone_lod1.glb",
+   "theme": "forest",
+   "kind": "stone_neighbourhood",
+   "lod": 1,
+   "counts": {
+    "large_terrace": 1,
+    "small_booth": 10,
+    "small_hut": 19,
+    "medium_block": 4
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.9026509520800741,
+    0.0,
+    -0.9006871594489189
+   ],
+   "pre_fit_max": [
+    0.9067938735903308,
+    0.15996526320045307,
+    0.8923541062620012
+   ],
+   "fit_scale": [
+    1.0441140631406232,
+    1.1764705882352942,
+    1.0137922599906584
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  },
+  "lod2": {
+   "triangles": 780,
+   "vertices": 1630,
+   "bytes_raw": 159176,
+   "bytes": 34256,
+   "file": "/workspace/assets/issue-326/built/forest/stone/ae_forest_neighbourhood_stone_lod2.glb",
+   "theme": "forest",
+   "kind": "stone_neighbourhood",
+   "lod": 2,
+   "counts": {
+    "large_terrace": 1,
+    "small_booth": 10,
+    "small_hut": 19,
+    "medium_block": 4
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.9026509520800741,
+    0.0,
+    -0.9006871594489189
+   ],
+   "pre_fit_max": [
+    0.9067938735903308,
+    0.15996526320045307,
+    0.8923541062620012
+   ],
+   "fit_scale": [
+    1.0441140631406232,
+    1.1764705882352942,
+    1.0137922599906584
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  }
+ },
+ "layout": [
+  {
+   "module": "large_terrace",
+   "H": "H2",
+   "x": 0.29834,
+   "y": 0,
+   "z": 0.2839,
+   "yaw": -2.46676,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.23919,
+   "y": 0,
+   "z": 0.33658,
+   "yaw": 2.42639,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.36209,
+   "y": 0,
+   "z": 0.21112,
+   "yaw": 2.04904,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": -0.39042,
+   "y": 0,
+   "z": -0.14065,
+   "yaw": 1.38411,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": -0.23682,
+   "y": 0,
+   "z": -0.33633,
+   "yaw": 0.50795,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.24947,
+   "y": 0,
+   "z": -0.34292,
+   "yaw": -0.56809,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.37173,
+   "y": 0,
+   "z": -0.20756,
+   "yaw": -1.1851,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.19659,
+   "y": 0,
+   "z": 0.54035,
+   "yaw": 2.70862,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.35974,
+   "y": 0,
+   "z": 0.4592,
+   "yaw": 2.52824,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.47208,
+   "y": 0,
+   "z": -0.34147,
+   "yaw": 0.92501,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.33489,
+   "y": 0,
+   "z": 0.55895,
+   "yaw": -2.46151,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.52031,
+   "y": 0,
+   "z": 0.39442,
+   "yaw": 2.08177,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.61661,
+   "y": 0,
+   "z": 0.24848,
+   "yaw": 1.95347,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.35478,
+   "y": 0,
+   "z": -0.545,
+   "yaw": 0.40749,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.16631,
+   "y": 0,
+   "z": -0.63873,
+   "yaw": -0.2012,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.40676,
+   "y": 0,
+   "z": -0.52258,
+   "yaw": -0.72869,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.64017,
+   "y": 0,
+   "z": -0.14525,
+   "yaw": -1.49047,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.70333,
+   "y": 0,
+   "z": 0.22477,
+   "yaw": -1.86629,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.63294,
+   "y": 0,
+   "z": 0.38864,
+   "yaw": -2.30749,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.69192,
+   "y": 0,
+   "z": -0.2444,
+   "yaw": 1.36133,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.33747,
+   "y": 0,
+   "z": 0.74956,
+   "yaw": 2.74428,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.42836,
+   "y": 0,
+   "z": -0.68777,
+   "yaw": 0.73608,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.40772,
+   "y": 0,
+   "z": -0.70077,
+   "yaw": -0.39185,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.55432,
+   "y": 0,
+   "z": -0.59355,
+   "yaw": -0.91334,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.67856,
+   "y": 0,
+   "z": -0.46894,
+   "yaw": -0.83533,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.84209,
+   "y": 0,
+   "z": 0.10677,
+   "yaw": -1.75939,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.5248,
+   "y": 0,
+   "z": 0.66898,
+   "yaw": -2.57855,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.15237,
+   "y": 0,
+   "z": 0.83505,
+   "yaw": -3.10087,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.514,
+   "y": 0,
+   "z": 0.67731,
+   "yaw": 2.49682,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.64262,
+   "y": 0,
+   "z": 0.55676,
+   "yaw": 2.43834,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.84245,
+   "y": 0,
+   "z": 0.11498,
+   "yaw": 1.84466,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.72124,
+   "y": 0,
+   "z": -0.44759,
+   "yaw": 1.1783,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.61828,
+   "y": 0,
+   "z": -0.58367,
+   "yaw": 0.99643,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.1814,
+   "y": 0,
+   "z": -0.82923,
+   "yaw": 0.35903,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  }
+ ],
+ "H_map": {
+  "small_hut": "H1",
+  "small_booth": "H2",
+  "medium_block": "H1",
+  "medium_court": "H3",
+  "large_hall": "H3",
+  "large_terrace": "H2"
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "stats": {
+  "lod0": {
+   "triangles": 5584,
+   "vertices": 11228,
+   "bytes_raw": 810616,
+   "bytes": 159352,
+   "file": "/workspace/assets/issue-326/built/jungle/stone/ae_jungle_neighbourhood_stone_lod0.glb",
+   "theme": "jungle",
+   "kind": "stone_neighbourhood",
+   "lod": 0,
+   "counts": {
+    "small_booth": 10,
+    "medium_court": 3,
+    "small_hut": 15,
+    "medium_block": 5,
+    "large_terrace": 1
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.8630724557811673,
+    0.0,
+    -0.9105152970055203
+   ],
+   "pre_fit_max": [
+    0.8874402782876443,
+    0.16141949286591176,
+    0.8819338366877878
+   ],
+   "fit_scale": [
+    1.0792648074991023,
+    1.165871754107048,
+    1.0141271642538052
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  },
+  "lod1": {
+   "triangles": 1020,
+   "vertices": 2100,
+   "bytes_raw": 204228,
+   "bytes": 41636,
+   "file": "/workspace/assets/issue-326/built/jungle/stone/ae_jungle_neighbourhood_stone_lod1.glb",
+   "theme": "jungle",
+   "kind": "stone_neighbourhood",
+   "lod": 1,
+   "counts": {
+    "small_booth": 10,
+    "medium_court": 3,
+    "small_hut": 15,
+    "medium_block": 5,
+    "large_terrace": 1
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.8630724557811673,
+    0.0,
+    -0.9105152970055203
+   ],
+   "pre_fit_max": [
+    0.8874402782876443,
+    0.15996526320045307,
+    0.8819338366877878
+   ],
+   "fit_scale": [
+    1.0792648074991023,
+    1.1764705882352942,
+    1.0141271642538052
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  },
+  "lod2": {
+   "triangles": 924,
+   "vertices": 1908,
+   "bytes_raw": 197508,
+   "bytes": 39784,
+   "file": "/workspace/assets/issue-326/built/jungle/stone/ae_jungle_neighbourhood_stone_lod2.glb",
+   "theme": "jungle",
+   "kind": "stone_neighbourhood",
+   "lod": 2,
+   "counts": {
+    "small_booth": 10,
+    "medium_court": 3,
+    "small_hut": 15,
+    "medium_block": 5,
+    "large_terrace": 1
+   },
+   "houses": 34,
+   "pre_fit_min": [
+    -0.8630724557811673,
+    0.0,
+    -0.9105152970055203
+   ],
+   "pre_fit_max": [
+    0.8874402782876443,
+    0.15996526320045307,
+    0.8819338366877878
+   ],
+   "fit_scale": [
+    1.0792648074991023,
+    1.1764705882352942,
+    1.0141271642538052
+   ],
+   "dims": [
+    1.8892667889595032,
+    0.18819442729465066,
+    1.817771357021584
+   ],
+   "target_min": [
+    -0.9377667903900146,
+    -0.09409720992203503,
+    -0.9152867107201885
+   ],
+   "target_max": [
+    0.9514999985694885,
+    0.09409721737261563,
+    0.9024846463013958
+   ],
+   "old_aabb_err_pct": 0.0,
+   "native_err_pct": 6.371,
+   "native_errs": [
+    0.722,
+    6.371,
+    4.479
+   ],
+   "K": 0.029084593309173287
+  }
+ },
+ "layout": [
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.38348,
+   "y": 0,
+   "z": 0.19188,
+   "yaw": -2.06971,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_court",
+   "H": "H3",
+   "x": -0.26618,
+   "y": 0,
+   "z": 0.32959,
+   "yaw": 2.47901,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.40303,
+   "y": 0,
+   "z": 0.10357,
+   "yaw": 1.71828,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.33491,
+   "y": 0,
+   "z": -0.25907,
+   "yaw": 0.7598,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.30832,
+   "y": 0,
+   "z": -0.29194,
+   "yaw": -0.97464,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.16961,
+   "y": 0,
+   "z": 0.4655,
+   "yaw": -2.83906,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "large_terrace",
+   "H": "H2",
+   "x": -0.21189,
+   "y": 0,
+   "z": -0.45765,
+   "yaw": 0.57799,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.39716,
+   "y": 0,
+   "z": 0.42615,
+   "yaw": -2.19452,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.20338,
+   "y": 0,
+   "z": 0.54365,
+   "yaw": 2.81055,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.4943,
+   "y": 0,
+   "z": 0.30676,
+   "yaw": 2.11911,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.55357,
+   "y": 0,
+   "z": -0.19356,
+   "yaw": 1.39125,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.24967,
+   "y": 0,
+   "z": -0.53141,
+   "yaw": -0.62235,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_court",
+   "H": "H3",
+   "x": 0.55101,
+   "y": 0,
+   "z": -0.19516,
+   "yaw": -1.17578,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.64842,
+   "y": 0,
+   "z": 0.13117,
+   "yaw": 1.81134,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.50942,
+   "y": 0,
+   "z": -0.40883,
+   "yaw": 1.08655,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.65305,
+   "y": 0,
+   "z": 0.35963,
+   "yaw": -2.15372,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.28375,
+   "y": 0,
+   "z": -0.68979,
+   "yaw": 0.41438,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_court",
+   "H": "H3",
+   "x": 0.56002,
+   "y": 0,
+   "z": -0.48732,
+   "yaw": -0.9985,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.82264,
+   "y": 0,
+   "z": 0.1037,
+   "yaw": -1.70942,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": 0.55828,
+   "y": 0,
+   "z": 0.59406,
+   "yaw": -2.43355,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.33629,
+   "y": 0,
+   "z": 0.74556,
+   "yaw": -2.85747,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.15397,
+   "y": 0,
+   "z": 0.80611,
+   "yaw": -2.78038,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "medium_block",
+   "H": "H1",
+   "x": -0.29248,
+   "y": 0,
+   "z": 0.75862,
+   "yaw": 2.57643,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.5248,
+   "y": 0,
+   "z": 0.63201,
+   "yaw": 2.52693,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.65335,
+   "y": 0,
+   "z": 0.50533,
+   "yaw": 2.19567,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.80071,
+   "y": 0,
+   "z": -0.20086,
+   "yaw": 1.50437,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.73305,
+   "y": 0,
+   "z": -0.38105,
+   "yaw": 0.94903,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.61915,
+   "y": 0,
+   "z": -0.54358,
+   "yaw": 0.80896,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": -0.48678,
+   "y": 0,
+   "z": -0.67133,
+   "yaw": 0.49928,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": -0.13338,
+   "y": 0,
+   "z": -0.81095,
+   "yaw": 0.14514,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_hut",
+   "H": "H1",
+   "x": 0.12408,
+   "y": 0,
+   "z": -0.83582,
+   "yaw": -0.32994,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.29107,
+   "y": 0,
+   "z": -0.79478,
+   "yaw": -0.18304,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.45372,
+   "y": 0,
+   "z": -0.71451,
+   "yaw": -0.38918,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  },
+  {
+   "module": "small_booth",
+   "H": "H2",
+   "x": 0.82876,
+   "y": 0,
+   "z": -0.1719,
+   "yaw": -1.40366,
+   "scale": 0.029084593309173287,
+   "family": "stone"
+  }
+ ],
+ "H_map": {
+  "small_hut": "H1",
+  "small_booth": "H2",
+  "medium_block": "H1",
+  "medium_court": "H3",
+  "large_hall": "H3",
+  "large_terrace": "H2"
+ }
+}
